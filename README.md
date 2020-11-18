@@ -1,2 +1,2 @@
 # The-Knowledge-House-
-Python, SQL, Flask, Jupyter
+Python 3, SQL, Flask, Jupyter Lab / Juppyter Notebook
